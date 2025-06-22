@@ -18,8 +18,7 @@ I'm a passionate and aspiring developer who enjoys working with modern mobile te
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sochiphuong&layout=compact&theme=radical)
 
-  ## 💰You can help me by Donating
-  [![playerduo](https://playerduo.net/sochi9723)]
+## 💰 You can help me by Donating
+[![PlayerDuo](https://img.shields.io/badge/PlayerDuo-Donate-orange?style=for-the-badge&logo=ko-fi)](https://playerduo.com/sochi9723)
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   

@@ -13,6 +13,9 @@ I'm a passionate and aspiring developer who enjoys working with modern mobile te
 ## 🌟 Featured Projects
 - **Name project**: updated content project. [GitHub Repository](updated code)
 
+## 👉👉 Bio
+- **Profile**: bio - [profile](https://sochiphuong.github.io/profile-me/)
+
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoChiPhuong&show_icons=true&theme=radical)
 
